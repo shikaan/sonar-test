@@ -4,4 +4,9 @@
 
 const test = 12;
 
-console.log(test);
+//submitting issues
+if(true)
+  console.log(test);
+
+if(12 == test)
+   console.log(test)
