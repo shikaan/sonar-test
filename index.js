@@ -5,6 +5,8 @@
 const test = 12;
 
 //submitting issues
+test=13
+
 if(true)
   console.log(test);
 
