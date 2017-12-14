@@ -7,7 +7,7 @@ const test = 12;
 //submitting issues
 test=13
 
-if(true)
+if(false)
   console.log(test);
 
 if(12 == test)
